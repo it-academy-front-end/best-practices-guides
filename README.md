@@ -1,22 +1,30 @@
-# Manuales de Entregas y Revisiones - Bootcamp Frontend
+# 📘 Best Practices Guides – Bootcamp Front-end
 
-Este repositorio contiene las guías de buenas prácticas para:  
-1. Realizar entregas de proyectos en el bootcamp siguiendo estándares profesionales.  
-2. Realizar revisiones de pares a través de issues en GitHub.  
+Aquest repositori recull les guies essencials per fomentar un desenvolupament professional i col·laboratiu dins del bootcamp de Front-end de l'IT Academy.
 
-Ambos manuales están orientados a fomentar un flujo de trabajo eficiente y profesional, alineado con principios de **Extreme Programming (XP)**.  
+Aquí hi trobaràs recursos per a:
 
-## Contenido  
-- [Manual de Entregas](./MANUAL_ENTREGAS.md)  
-- [Manual de Revisiones](./MANUAL_REVISIONES.md)  
+- 💼 Realitzar entregues de projectes seguint bones pràctiques de desenvolupament.
+- 🔍 Fer revisions entre iguals (*code review p2p*) utilitzant issues a GitHub.
+- 🎥 Compartir i organitzar *demos* tècniques de l'equip.
+
+Totes les guies estan alineades amb metodologies àgils i principis d’**Extreme Programming (XP)**, promovent el feedback constant i la millora contínua.
+
+## 📂 Contingut
+
+- [Bones Pràctiques de Lliuraments](https://github.com/IT-Academy-BCN/ita-sprint0/blob/main/instruccions_alumnes/bones_practiques.md) → Guia per lliurar projectes de manera professional.
+- [Bones Pràctiques Code Review P2P](https://github.com/IT-Academy-BCN/ita-sprint0/blob/main/instruccions_alumnes/code_review_p2p.md) → Guia per fer revisions constructives entre companys.
+- [Guía per Preparar la Presentació i Demo d’un Projecte ](https://github.com/IT-Academy-BCN/ita-sprint0/blob/main/instruccions_alumnes/guia_DEMO_front.md)→  Guia per fer *demos* tècniques del software desenvolupat.
+
+## 🛠️ Com utilitzar aquest repositori
+
+1. **Llegeix les guies** abans d'iniciar un projecte o revisar el d’un altre company/a.
+2. **Segueix els criteris** a l’hora de crear, documentar i entregar els teus repositoris.
+3. **Fes servir els exemples** i *demos* com a inspiració o referència tècnica.
+4. **Comparteix feedback amb respecte**, claredat i esperit de millora.
 
 ---
 
-## Cómo usar este repositorio  
-1. Lee los manuales antes de iniciar un proyecto o realizar una revisión.  
-2. Sigue los lineamientos al crear un repositorio y documentar tu trabajo.  
-3. Usa las guías como referencia para dar y recibir feedback constructivo.  
+Gràcies per mantenir un entorn de treball col·laboratiu i respectuós.  
+Molta sort i continua aprenent amb passió! 🚀
 
----
-
-¡Buena suerte y sigue aprendiendo con pasión! 🚀
