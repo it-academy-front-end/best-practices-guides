@@ -12,11 +12,11 @@ Totes les guies estan alineades amb metodologies àgils i principis d’**Extrem
 
 ## 📂 Contingut
 
-- [Bones Pràctiques de Lliuraments](https://github.com/IT-Academy-BCN/ita-sprint0/blob/main/instruccions_alumnes/bones_practiques.md) → Guia per lliurar projectes de manera professional.
-- [Bones Pràctiques Code Review P2P](https://github.com/IT-Academy-BCN/ita-sprint0/blob/main/instruccions_alumnes/code_review_p2p.md) → Guia per fer revisions constructives entre companys.
-- [Guía per Preparar la Presentació i Demo d’un Projecte ](https://github.com/IT-Academy-BCN/ita-sprint0/blob/main/instruccions_alumnes/guia_DEMO_front.md)→  Guia per fer *demos* tècniques del software desenvolupat.
+- [Bones Pràctiques de Lliuraments](it-academy-front-end/best-practices-guides/lliuraments-bones-practiques.md) → Guia per lliurar projectes de manera professional.
+- [Bones Pràctiques Code Review P2P](it-academy-front-end/best-practices-guides/code-review-p2p-bones-practiques.md) → Guia per fer revisions constructives entre companys.
+- [Guía per la Presentació i Demo d’un Projecte ](it-academy-front-end/best-practices-guides/demo-bones-practiques.md)→  Guia per preparar *demos* tècniques del software desenvolupat.
 
-## 🛠️ Com utilitzar aquest repositori
+## 🛠️ Com utilitzar aquest repositori 
 
 1. **Llegeix les guies** abans d'iniciar un projecte o revisar el d’un altre company/a.
 2. **Segueix els criteris** a l’hora de crear, documentar i entregar els teus repositoris.
